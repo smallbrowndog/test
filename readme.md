@@ -72,13 +72,9 @@ df.head()
 ## 2. 대표적인 인공지능 API
 ### 2.1 구글
 - [Vision API](https://cloud.google.com/vision?hl=ko)
-
-![Vision_API_Logo](./vision_api.png)
-- 이미지 크기 조정 및 위치 정렬 가능
 <p align="center">
-<img src = "./vision_api.png" width = 200>
+<img src = "./vision_api.png" width = 300>
 </p>
-
   - Vision API는 이미지를 인식하여 분류, 분석을 하는데 특화 되어있는 인공지능 API이다.
 
 <details>
@@ -93,6 +89,66 @@ df.head()
 4. 라벨링 및 분류: Vision API는 이미지에 대한 설명이나 태그(label) 제공이 가능하다.
 
 5. 유사 이미지 검색: 유사한 콘텐츠나 패턴을 가진 다른 이미지들을 찾아내는 것도 가능하다.
+</details>
+
+- [Natural Language API]
+<details>
+<summary>관련 상세 내용</summary>
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+</details>
+
+- [Translation API]
+<details>
+<summary>관련 상세 내용</summary>
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+</details>
+
+- [Speech-to-Text API]
+<details>
+<summary>관련 상세 내용</summary>
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+</details>
+
+- [Dialogflow]
+<details>
+<summary>관련 상세 내용</summary>
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
 </details>
 
 ### 2.2 네이버
